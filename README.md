@@ -43,7 +43,7 @@ of King Fahad National Library for the year 2024 using Excel**
 ```
 =TEXT(DateCell;"mmm")
 ```
-4- Counct of Total events days:
+4- Count of Total events days:
 ```
 =EndDateCell - StartDateCell +1
 ```
